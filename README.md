@@ -1,4 +1,4 @@
-# Auto_typing_Text_-HTML-CSS-JS-
+# Auto_typing_Text_-HTML-CSS-JS
 
 A simple web page of "AUTO TYPING TEXT" using HTML,CSS,JavaScript<br><br>
 The js link - https://github.com/mattboldt/typed.js/ <br><br>
